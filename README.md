@@ -11,9 +11,11 @@ of git works
 
 ##purpose
 
+s is sample work 
 
 ##Deployment
 
+the is a deployment part
 
 
 ##how to contribute
