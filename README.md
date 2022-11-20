@@ -19,3 +19,8 @@ the is a deployment part
 
 
 ##how to contribute
+
+
+##Copyriht
+
+this is copyright section of the file 
