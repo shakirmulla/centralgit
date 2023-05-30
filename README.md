@@ -1,6 +1,6 @@
-#Starter web project
+#Starter web project # this line is for jenkins testing 
 
-this is the sample web project for s
+this is the sample web project for 
 showing how touse git 
 
 
@@ -11,7 +11,7 @@ of git works
 
 ##purpose
 
-s is sample work 
+This is sample work 
 
 ##Deployment
 
