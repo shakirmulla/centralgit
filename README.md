@@ -2,7 +2,7 @@
 # this line is to check jenkin poll scm
 
 this is the sample web project for 
-showing how touse git 
+showing how to use git 
 
 
 ##introduction
