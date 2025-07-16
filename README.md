@@ -6,6 +6,8 @@ first line from git practice
 first line from branch1
 
 
+2nd line from master
+
 
 
 
