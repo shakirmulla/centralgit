@@ -1,6 +1,13 @@
 #Starter web project # this line is for jenkins testing 
 # this line is to check jenkin poll scm
 
+first line from git practice
+
+
+
+
+
+
 this is the sample web project for 
 showing how to use git 
 
